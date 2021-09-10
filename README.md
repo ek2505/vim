@@ -1,5 +1,3 @@
-# VIM dotfiles
-
 ## Installation
 
 ```bash
